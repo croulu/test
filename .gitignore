@@ -1,0 +1,8 @@
+test.log
+
+*.log
+!importantLog.log
+
+**/logs
+
+
